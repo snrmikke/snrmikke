@@ -1,5 +1,5 @@
 -  Hi, I’m snrmikke,
-- 🌱strogly fueled towards classic and firm web development >>#fullstack 
+- 🌱classic and firm web development >>#fullstack 
 
 
 
