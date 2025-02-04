@@ -1,4 +1,5 @@
--  Hi, I’m snrmikke,
+
+-  This is 'snrmikke,
 - 🌱classic and firm web development >>#fullstack 
 
 
