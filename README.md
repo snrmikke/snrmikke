@@ -31,8 +31,8 @@ const snrmikke = {
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snrmikke&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="snrmikke's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snrmikke&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="snrmikke's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snrmikke&show_icons=true&count_private=true&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snrmikke&layout=compact&hide_border=true&title_color=00F7FF&text_color=c9d1d9&bg_color=0d1117" alt=" Top Languages" />
 </div>
 
 ---
@@ -56,15 +56,14 @@ const snrmikke = {
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
